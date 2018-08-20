@@ -4,3 +4,5 @@
 * Spring Cloud 交流QQ群：157525002，欢迎有兴趣的童鞋加入交流！
 * Spring Cloud开源电子书：[http://git.oschina.net/itmuch/spring-cloud-book](http://git.oschina.net/itmuch/spring-cloud-book) 
 
+https://gitee.com/it-much/config-repo-51cto-video
+
